@@ -1,0 +1,14 @@
+C:\Users\2026\Desktop\week 2c#2\Exam2\bin\Debug\net10.0\Exam2.exe
+C:\Users\2026\Desktop\week 2c#2\Exam2\bin\Debug\net10.0\Exam2.deps.json
+C:\Users\2026\Desktop\week 2c#2\Exam2\bin\Debug\net10.0\Exam2.runtimeconfig.json
+C:\Users\2026\Desktop\week 2c#2\Exam2\bin\Debug\net10.0\Exam2.dll
+C:\Users\2026\Desktop\week 2c#2\Exam2\bin\Debug\net10.0\Exam2.pdb
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.AssemblyInfoInputs.cache
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.AssemblyInfo.cs
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.dll
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\refint\Exam2.dll
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.pdb
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\Exam2.genruntimeconfig.cache
+C:\Users\2026\Desktop\week 2c#2\Exam2\obj\Debug\net10.0\ref\Exam2.dll
